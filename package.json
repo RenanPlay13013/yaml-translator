@@ -1,0 +1,17 @@
+{
+  "name": "yml-translator",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "RenanPlay13013",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "translate": "^3.0.1"
+  }
+}
