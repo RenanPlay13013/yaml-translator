@@ -1,6 +1,7 @@
 import yaml from "js-yaml";
 import fs from "fs";
 import translate from "translate";
+import language from "./lang.json" assert {type: "json"}
 
 translate.engine = "google";
 
@@ -14,7 +15,7 @@ async function quickStart() {
     const target = "ru";
 
     for (let key in data) { 
-        const text = await translate(data[key], "pt")
+        const text = await translate(data[key], language.language)
         console.log(text)
 
         translatedData[key] = text;

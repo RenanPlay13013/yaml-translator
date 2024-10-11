@@ -9,4 +9,9 @@
 - in your terminal run npm start
 - translated yaml is outputed in translated.yml
 
+## Changing language
+
+- Change language refence in `lang.json`;
+- Language Codes https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes
+
 - ### Enjoy 😉

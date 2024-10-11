@@ -4,7 +4,7 @@
   "main": "main.js",
   "type": "module",
   "scripts": {
-    "start": "node ."
+    "start": "set NODE_OPTIONS=--no-warnings && node ."
   },
   "keywords": [],
   "author": "RenanPlay13013",
