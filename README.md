@@ -12,6 +12,6 @@
 ## Changing language
 
 - Change language refence in `lang.json`;
-- Language Codes https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes
+- Language Codes https://www.andiamo.co.uk/resources/iso-language-codes/
 
 - ### Enjoy 😉
