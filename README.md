@@ -1,3 +1,6 @@
+# Currently have a bunch of bugs!
+# Corrections comming soon
+
 # YAML translator 
 
 ## How to use step by step
